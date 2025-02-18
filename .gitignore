@@ -1,0 +1,5 @@
+# Ignore the images directory and its contents
+.images/
+./images/
+.images/*
+./images/*
